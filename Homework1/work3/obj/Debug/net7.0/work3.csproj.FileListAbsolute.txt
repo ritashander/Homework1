@@ -1,0 +1,15 @@
+/Users/ritasander/Homeworks/Homework1/work3/bin/Debug/net7.0/work3
+/Users/ritasander/Homeworks/Homework1/work3/bin/Debug/net7.0/work3.deps.json
+/Users/ritasander/Homeworks/Homework1/work3/bin/Debug/net7.0/work3.runtimeconfig.json
+/Users/ritasander/Homeworks/Homework1/work3/bin/Debug/net7.0/work3.dll
+/Users/ritasander/Homeworks/Homework1/work3/bin/Debug/net7.0/work3.pdb
+/Users/ritasander/Homeworks/Homework1/work3/obj/Debug/net7.0/work3.csproj.AssemblyReference.cache
+/Users/ritasander/Homeworks/Homework1/work3/obj/Debug/net7.0/work3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ritasander/Homeworks/Homework1/work3/obj/Debug/net7.0/work3.AssemblyInfoInputs.cache
+/Users/ritasander/Homeworks/Homework1/work3/obj/Debug/net7.0/work3.AssemblyInfo.cs
+/Users/ritasander/Homeworks/Homework1/work3/obj/Debug/net7.0/work3.csproj.CoreCompileInputs.cache
+/Users/ritasander/Homeworks/Homework1/work3/obj/Debug/net7.0/work3.dll
+/Users/ritasander/Homeworks/Homework1/work3/obj/Debug/net7.0/refint/work3.dll
+/Users/ritasander/Homeworks/Homework1/work3/obj/Debug/net7.0/work3.pdb
+/Users/ritasander/Homeworks/Homework1/work3/obj/Debug/net7.0/work3.genruntimeconfig.cache
+/Users/ritasander/Homeworks/Homework1/work3/obj/Debug/net7.0/ref/work3.dll
